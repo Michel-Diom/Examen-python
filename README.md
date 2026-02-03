@@ -4,3 +4,5 @@ Année universitaire : 2025 - 2026 Semestre 11
 Description
 
 Ce dépot contient les solutions des deux problèmes de synthèse de l'examen de programation Python (niveau L2).
+problrm1_text_analysis.py
+problrm2_grades.py
